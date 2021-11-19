@@ -3,7 +3,7 @@
 * Automation Testing menggunakan Katalon Studio.
 * Test Script bisa dilihat pada folder Scripts
 * Test Case yang dibuat bisa dilihat pada folder Test Case. Rekaman dapat dilihat menggunakan Katalon Studio.
-* Jika ada sedikit kesalahan pada rekaman pengujian Test Case Sign Up di bagian email telah terdaftar, menandakan bahwa email tersebut sudah berhasil dibuat dan sistem tidak mengizinkan masuk menggunakan email tersebut.
+* Jika ada sedikit kesalahan pada rekaman pengujian Test Case Sign Up di bagian email telah terdaftar, menandakan bahwa email tersebut sudah berhasil dibuat dan sistem tidak mengizinkan melihat rekaman pengujian menggunakan email tersebut.
 
 # Automated Testing
 Terdiri dari :
